@@ -1,5 +1,5 @@
 ---
-title: Intro RDM
+title: Intro LMS
 description: Panduan LMS Moodle
 ---
 Halaman ini berisi panduan LMS Moodle
